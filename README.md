@@ -1,2 +1,19 @@
-# Sprint-14-Film-Junky-Union
-A Film Junky Union, uma nova comunidade para entusiastas de filmes clássicos, está desenvolvendo um sistema para filtrar e categorizar resenhas de filmes. O objetivo é treinar um modelo para detectar automaticamente resenhas negativas.
+Sprint 14 - Projeto 14/17 BootCamp TripleTen de Ciências de Dados
+
+<div align="center">
+  <img src="...." width="60%">
+</div>
+
+# Introdução
+
+
+# Objetivo do Projeto 🎯
+
+
+# Estrutura do Repositório
+Veja os dados utilizados : 
+
+![Dados Sprint 14 - arquivo  CSV]()
+
+# Tecnologias
+
