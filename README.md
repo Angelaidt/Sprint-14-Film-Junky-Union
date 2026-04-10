@@ -41,14 +41,14 @@ NLTK / Spacy: Aplicados para a normalização do texto (tokenização, remoção
 Scikit-learn (TfidfVectorizer / CountVectorizer): Para a vetorização do texto, transformando palavras em representações numéricas baseadas em frequência e importância.
 
 Modelagem de Machine Learning
-Scikit-learn: Implementação de modelos clássicos como Regressão Logística, Random Forest e LinearSVC.
+Scikit-learn: Implementação de modelos clássicos como Regressão Logística.
 
 XGBoost: Algoritmo de Gradient Boosting para otimização de performance.
 
 Abordagem com Deep Learning (Transfer Learning)
-Hugging Face (Transformers): Utilização da biblioteca para carregar e fazer o fine-tuning do modelo pré-treinado BERT (Bidirectional Encoder Representations from Transformers), focando em maximizar o F1-Score.
+Hugging Face (Transformers): Utilização da biblioteca para carregar o modelo pré-treinado BERT (Bidirectional Encoder Representations from Transformers), focando em maximizar o F1-Score.
 
-PyTorch / TensorFlow: (Um deles, a definir) Framework de deep learning utilizado para treinar o modelo BERT sobre os dados do IMDB.
+PyTorch : Framework de deep learning utilizado para treinar o modelo BERT sobre os dados do IMDB.
 
 Métricas de Avaliação: Foco total na métrica F1-Score, além de Matriz de Confusão e Curva ROC-AUC.
 
